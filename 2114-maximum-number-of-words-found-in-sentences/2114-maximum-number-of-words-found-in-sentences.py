@@ -7,5 +7,5 @@ class Solution(object):
         mwc=0
         for i in sentences:
             wc=len(i.split())
-            mwc=max(wc,mwc)
+        mwc=max(mwc,wc)
         return mwc
