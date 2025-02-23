@@ -1,4 +1,6 @@
-/* Write your PL/SQL query statement below */
-SELECT DISTINCT author_id AS id FROM Views
-WHERE author_id=viewer_id
-ORDER BY author_id;
+# Write your MySQL query statement below
+SELECT DISTINCT VIEWER_ID AS ID
+FROM VIEWS
+GROUP BY AUTHOR_ID,VIEWER_ID
+HAVING AUTHOR_ID=VIEWER_ID
+ORDER BY ID;
