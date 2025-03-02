@@ -1,14 +1,9 @@
-/* Write your PL/SQL query statement below */
--- WITH dummy AS(
---     SELECT d.name AS Department,e.name as Employee,e.salary as Salary,
--- DENSE_RANK() OVER(PARTITION BY d.id ORDER BY e.salary DESC) AS RANK
--- FROM employee e JOIN  Department d ON e.departmentId=d.id
--- )
-
-SELECT Department,Employee,Salary
-FROM (
-    SELECT d.name AS Department,e.name as Employee,e.salary as Salary,
-DENSE_RANK() OVER(PARTITION BY d.id ORDER BY e.salary DESC) AS RANK
-FROM employee e JOIN  Department d ON e.departmentId=d.id
+# Write your MySQL query statement below
+WITH DUMMY AS(
+SELECT D.NAME AS DEPARTMENT,E.NAME AS EMPLOYEE,E.SALARY AS SALARY,
+DENSE_RANK() OVER(PARTITION BY D.id ORDER BY E.SALARY DESC) AS ranking
+FROM EMPLOYEE E JOIN DEPARTMENT D ON E.departmentId=D.id
 )
-WHERE rank<4;
+SELECT DEPARTMENT,EMPLOYEE,SALARY FROM DUMMY
+WHERE ranking<4;
+
