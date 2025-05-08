@@ -7,7 +7,7 @@ public:
             }
         }
         return s;
-        // transform(s.begin(),s.end(),s.begin(),::tolower);
-        // return s;
+        transform(s.begin(),s.end(),s.begin(),::tolower);
+        return s;
     }
 };
