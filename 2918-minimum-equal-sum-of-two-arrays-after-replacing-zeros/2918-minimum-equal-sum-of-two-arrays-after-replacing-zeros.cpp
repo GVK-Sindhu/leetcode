@@ -20,8 +20,17 @@ public:
                 s2+=it;
             }
         }
-        if((s2>s1 && !c1) || (s1>s2 && !c2)){  
-            return -1;
+        // if((s2>s1 && !c1) || (s1>s2 && !c2)){  
+        //     return -1;
+        // }
+        if(c1==0 && c2==0){
+            return s1==s2?s1:-1;
+        }
+        else if(c2==0){
+            return s1<=s2?s2:-1;
+        }
+        else if(c1==0){
+            return s2<=s1?s1:-1;
         }
         else{
             return max(s1,s2);
