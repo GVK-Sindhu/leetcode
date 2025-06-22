@@ -5,6 +5,12 @@ public:
         if(tar<=1){
             return false;
         }
+        if(tar<=3){
+            return true;
+        }
+        if(tar%2==0 || tar%3==0){
+            return false;
+        }
         for(int i=2;i<=sqrt(tar);i++){
             if(tar%i==0){
                 return false;
