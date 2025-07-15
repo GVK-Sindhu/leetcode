@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isValid(string word) {
-        int vow=0,con=0;
+        bool vow=false,con=false;
         if(word.length()>=3){
         for(char c:word){
             if(!isalnum(c)){
@@ -9,22 +9,17 @@ public:
             }
             if(isalnum(c)){
                 if(isalpha(c)){
-                if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u' || c=='A' || c=='E' || c=='I' || c=='O' || c=='U'){
-                    vow++;
+                char ch=tolower(c);
+                if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u'){
+                    vow=true;
                 }
                 else{
-                    con++;
+                    con=true;
                 }
                 }
             }
         }
-        if(vow>0 && con>0){
-           
-            return true;
         }
-        }
-        cout<<vow<<" "<<con<<endl;
-
-        return false;
+        return vow&&con;
     }
 };
