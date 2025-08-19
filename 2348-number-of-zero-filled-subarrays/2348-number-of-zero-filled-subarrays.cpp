@@ -7,12 +7,15 @@ public:
         for(int i=0;i<n;i++){
             if(nums[i]==0){
                 c++;
+               
             }
             else{
+                res+=(c*(c+1))/2;
                 c=0;
+                 
             }
-            res+=c;
         }
+         res+=(c*(c+1))/2;
         return res;
     }
 };
