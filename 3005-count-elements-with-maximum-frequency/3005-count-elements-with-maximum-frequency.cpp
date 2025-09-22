@@ -7,9 +7,10 @@ public:
         }
         int maxfreq=0,c=0;
         for(auto it:m){
-            if(it.second>maxfreq){
-                maxfreq=it.second;
-            }
+            // if(it.second>maxfreq){
+            //     maxfreq=it.second;
+            // }
+            maxfreq=max(maxfreq,it.second);
         }
         for(auto it:m){
             if(it.second==maxfreq){
