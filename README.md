@@ -7,6 +7,7 @@
 | [0198-house-robber](https://github.com/GVK-Sindhu/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/GVK-Sindhu/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/GVK-Sindhu/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Greedy
@@ -40,6 +41,7 @@
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/GVK-Sindhu/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +50,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
