@@ -1,15 +1,8 @@
-#include<bits/stdc++.h>
-using namespace std;
 class Solution {
 public:
-    bool isPalindrome(string s) {
-        
-        transform(s.begin(),s.end(),s.begin(),::tolower);
-        s.erase(remove_if(s.begin(),s.end(),[](char c){return !isalnum(c);}),s.end());
-        int n=s.size();
-        int i=0;
-        int j=n-1;
-        while(i<=j){
+    bool ispal(string s){
+        int i=0,j=s.size()-1;
+        while(i<j){
             if(s[i]!=s[j]){
                 return false;
             }
@@ -17,27 +10,17 @@ public:
             j--;
         }
         return true;
-        
-
     }
-
-        // string news="";
-        // for(char i:s){
-        //     if(isalnum(i)) {
-        //         news+=tolower(i);
-        //     }
-        // }
-    //     transform(s.begin(),s.end(),s.begin(),::tolower);
-    //     s.erase(remove_if(s.begin(),s.end(),[](char c){return !isalnum(c);}),s.end());
-
-    //     return palindromehelper(s,0);
-    // }
-    // bool palindromehelper(string &s,int i){
-    //     int n=s.size();
-    //     if(i>=n/2) return true;
-    //     if(s[i]!=s[n-i-1]){
-    //         return false;
-    //     }
-    //     return palindromehelper(s,i+1);
-     
+    bool isPalindrome(string s) {
+        string tmp;
+        for(int i=0;i<s.size();i++){
+            if(isalnum(s[i])){
+                tmp+=tolower(s[i]);
+            }
+        }
+        if(ispal(tmp)){
+            return true;
+        }
+        return false;
+    }
 };
