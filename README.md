@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GVK-Sindhu/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/GVK-Sindhu/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/GVK-Sindhu/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/GVK-Sindhu/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -122,4 +123,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/GVK-Sindhu/leetcode/tree/main/0169-majority-element/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
