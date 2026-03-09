@@ -10,8 +10,8 @@ public:
                 hash[s[l]]--;
                 l++;
             }
-            maxlen=max(maxlen,(r-l+1));
             hash[s[r]]++;
+            maxlen=max(maxlen,(r-l+1));
             r++;
         }
         return maxlen;
