@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/GVK-Sindhu/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/GVK-Sindhu/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/GVK-Sindhu/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/GVK-Sindhu/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -85,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GVK-Sindhu/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/GVK-Sindhu/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/GVK-Sindhu/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -103,10 +105,12 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/GVK-Sindhu/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/GVK-Sindhu/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/GVK-Sindhu/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Math
