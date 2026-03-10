@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/GVK-Sindhu/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/GVK-Sindhu/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GVK-Sindhu/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -24,6 +25,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/GVK-Sindhu/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/GVK-Sindhu/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/GVK-Sindhu/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/GVK-Sindhu/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0189-rotate-array/) | Medium |
