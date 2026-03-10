@@ -2,16 +2,14 @@ class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
         int n=nums.size();
-        int minlen=INT_MAX,len=0;
-        int l=0,r=0,s=0;
+        int minlen=INT_MAX,s=0;
+        int l=0,r=0;
         while(r<n){
             s+=nums[r];
             while(s>=target){
-            len=(r-l+1);
-            cout<<len<<s<<" ";
-            minlen=min(minlen,len);
+                minlen=min(minlen,(r-l+1));
                 s-=nums[l];
-                l++;  
+                l++;
             }
             r++;
         }
