@@ -140,6 +140,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GVK-Sindhu/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GVK-Sindhu/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +160,20 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0136-single-number/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/GVK-Sindhu/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GVK-Sindhu/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GVK-Sindhu/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GVK-Sindhu/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GVK-Sindhu/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
