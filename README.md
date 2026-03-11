@@ -58,6 +58,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/GVK-Sindhu/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0394-decode-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -182,4 +183,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/GVK-Sindhu/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/GVK-Sindhu/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
