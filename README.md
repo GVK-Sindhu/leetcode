@@ -157,4 +157,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0136-single-number/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/GVK-Sindhu/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
