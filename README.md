@@ -18,6 +18,7 @@
 | [0219-contains-duplicate-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/GVK-Sindhu/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/GVK-Sindhu/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0739-daily-temperatures](https://github.com/GVK-Sindhu/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/GVK-Sindhu/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/GVK-Sindhu/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -53,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0394-decode-string/) | Medium |
+| [0739-daily-temperatures](https://github.com/GVK-Sindhu/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,4 +178,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GVK-Sindhu/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/GVK-Sindhu/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
