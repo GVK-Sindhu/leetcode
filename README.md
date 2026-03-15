@@ -39,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GVK-Sindhu/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/GVK-Sindhu/leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0076-minimum-window-substring](https://github.com/GVK-Sindhu/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/GVK-Sindhu/leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -56,6 +57,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0394-decode-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/GVK-Sindhu/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Recursion
