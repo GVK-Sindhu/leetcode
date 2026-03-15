@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/GVK-Sindhu/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0046-permutations](https://github.com/GVK-Sindhu/leetcode/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/GVK-Sindhu/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/GVK-Sindhu/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/GVK-Sindhu/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/GVK-Sindhu/leetcode/tree/main/0078-subsets/) | Medium |
@@ -37,6 +38,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/GVK-Sindhu/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/GVK-Sindhu/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/GVK-Sindhu/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -147,6 +149,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/GVK-Sindhu/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GVK-Sindhu/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
