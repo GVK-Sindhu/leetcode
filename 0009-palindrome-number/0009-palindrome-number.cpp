@@ -1,13 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if(x<0||(x%10==0 && x!=0)) return false;
-        int rev=0;
-        int temp=x;
-        while(x>rev){
-            rev=rev*10+x%10;
-            x/=10;
-        }
-        return x==rev||x==rev/10;
+        // int tmp=x;
+        // int rev=0;
+        // if(tmp<0) return false;
+        // while(tmp>0){
+        //     int ld=tmp%10;
+        //     rev=(rev*10)+ld;
+        //     tmp/=10;
+        // }
+        // if(x==rev) return true;
+        // return false;
+        string tmp=to_string(x);
+        string tmp2=to_string(x);
+        reverse(tmp2.begin(),tmp2.end());
+        return tmp==tmp2;
     }
 };
