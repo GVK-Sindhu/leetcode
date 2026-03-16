@@ -150,6 +150,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/GVK-Sindhu/leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/GVK-Sindhu/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
