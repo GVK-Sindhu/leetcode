@@ -1,31 +1,25 @@
 class Solution {
 public:
-    int solve(long long mid,vector<int>&piles,int k){
-        int s=0;
+    bool solve(int mid,vector<int>&piles,int hr){
+        long long reqhr=0;
         for(int it:piles){
-            s+=(it+mid-1)/mid;
+            reqhr+=(it+mid-1)/mid;
         }
-        if(s<=k){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return reqhr<=hr;
     }
-    int minEatingSpeed(vector<int>& piles, int k) {
-        int maxi=*max_element(piles.begin(),piles.end());
-        long long l=1,h=maxi;
-        int ans=0;
+    int minEatingSpeed(vector<int>& piles, int hr) {
+        long long l=1,h=*max_element(piles.begin(),piles.end());
+        long long minres=INT_MAX;
         while(l<=h){
-            long long mid=(l+h)/2;
-            if(solve(mid,piles,k)){
-                ans=mid;
+            long long mid=l+(h-l)/2;
+            if(solve(mid,piles,hr)){
+                minres=min(minres,mid);
                 h=mid-1;
             }
             else{
                 l=mid+1;
             }
         }
-        return ans;
+        return minres;
     }
 };
