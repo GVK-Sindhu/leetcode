@@ -13,7 +13,7 @@ public:
                 zc++;
             }
         }
-        if(zc>2){
+        if(zc>=2){
             return res;
         }
         for(int i=0;i<n;i++){
