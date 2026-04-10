@@ -1,15 +1,15 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int l=0,r=0;
-        int maxlen=0;
-        vector<int>freq(256,0);
-        while(r<s.size()){
-            while(freq[s[r]]!=0){
-                freq[s[l]]--;
+        int l=0,r=0,maxlen=0;
+        int n=s.size();
+        vector<char>hash(256,0);
+        while(r<n){
+            hash[s[r]]++;
+            while(hash[s[r]]>1){
+                hash[s[l]]--;
                 l++;
             }
-            freq[s[r]]++;
             maxlen=max(maxlen,(r-l+1));
             r++;
         }
