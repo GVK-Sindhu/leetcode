@@ -14,9 +14,9 @@ public:
                 j++;
             }
             else if(startidx!=-1){
-                j=startidx+1;
                 match++;
                 i=match;
+                j=startidx+1;
             }
             else{
                 return false;
