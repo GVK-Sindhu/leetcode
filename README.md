@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/GVK-Sindhu/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0046-permutations](https://github.com/GVK-Sindhu/leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/GVK-Sindhu/leetcode/tree/main/0048-rotate-image/) | Medium |
@@ -66,6 +67,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GVK-Sindhu/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/GVK-Sindhu/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0014-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/GVK-Sindhu/leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/GVK-Sindhu/leetcode/tree/main/0044-wildcard-matching/) | Hard |
@@ -270,4 +272,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
