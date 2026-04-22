@@ -218,6 +218,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/GVK-Sindhu/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +269,7 @@
 | ------- | ------- |
 | [0046-permutations](https://github.com/GVK-Sindhu/leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/GVK-Sindhu/leetcode/tree/main/0078-subsets/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/GVK-Sindhu/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,4 +278,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/GVK-Sindhu/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/GVK-Sindhu/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 <!---LeetCode Topics End-->
