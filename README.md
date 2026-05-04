@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/GVK-Sindhu/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/GVK-Sindhu/leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/GVK-Sindhu/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/GVK-Sindhu/leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -178,6 +179,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/GVK-Sindhu/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/GVK-Sindhu/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
