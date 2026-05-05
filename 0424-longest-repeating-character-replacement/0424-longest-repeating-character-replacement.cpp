@@ -1,8 +1,8 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        int n=s.size();
         int l=0,r=0;
+        int n=s.size();
         int maxlen=0,maxc=0;
         vector<int>hash(26,0);
         while(r<n){
@@ -12,7 +12,7 @@ public:
                 hash[s[l]-'A']--;
                 l++;
             }
-             maxlen=max(maxlen,(r-l+1));
+            maxlen=max(maxlen,(r-l+1));
             r++;
         }
         return maxlen;
