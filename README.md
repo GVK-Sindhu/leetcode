@@ -36,6 +36,7 @@
 | [0303-range-sum-query-immutable](https://github.com/GVK-Sindhu/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0396-rotate-function](https://github.com/GVK-Sindhu/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/GVK-Sindhu/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0695-max-area-of-island](https://github.com/GVK-Sindhu/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/GVK-Sindhu/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/GVK-Sindhu/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/GVK-Sindhu/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -68,6 +69,7 @@
 | [0054-spiral-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/GVK-Sindhu/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/GVK-Sindhu/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/GVK-Sindhu/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0867-transpose-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/GVK-Sindhu/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -245,6 +247,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/GVK-Sindhu/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/GVK-Sindhu/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/GVK-Sindhu/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/GVK-Sindhu/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -306,6 +309,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/GVK-Sindhu/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/GVK-Sindhu/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/GVK-Sindhu/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +320,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/GVK-Sindhu/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/GVK-Sindhu/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/GVK-Sindhu/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/GVK-Sindhu/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
