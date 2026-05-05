@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/GVK-Sindhu/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/GVK-Sindhu/leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/GVK-Sindhu/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/GVK-Sindhu/leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -99,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/GVK-Sindhu/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0394-decode-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/GVK-Sindhu/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/GVK-Sindhu/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -114,6 +116,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/GVK-Sindhu/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/GVK-Sindhu/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/GVK-Sindhu/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/GVK-Sindhu/leetcode/tree/main/0055-jump-game/) | Medium |
@@ -129,6 +132,7 @@
 | [0011-container-with-most-water](https://github.com/GVK-Sindhu/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/GVK-Sindhu/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/GVK-Sindhu/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/GVK-Sindhu/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/GVK-Sindhu/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -276,6 +280,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/GVK-Sindhu/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0739-daily-temperatures](https://github.com/GVK-Sindhu/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/GVK-Sindhu/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 ## Linked List
