@@ -241,6 +241,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0547-number-of-provinces](https://github.com/GVK-Sindhu/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/GVK-Sindhu/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -300,6 +301,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0547-number-of-provinces](https://github.com/GVK-Sindhu/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,10 +310,12 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/GVK-Sindhu/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/GVK-Sindhu/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/GVK-Sindhu/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/GVK-Sindhu/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
