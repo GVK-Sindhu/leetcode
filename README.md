@@ -22,6 +22,7 @@
 | [0078-subsets](https://github.com/GVK-Sindhu/leetcode/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GVK-Sindhu/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/GVK-Sindhu/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0136-single-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/GVK-Sindhu/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -69,6 +70,7 @@
 | [0048-rotate-image](https://github.com/GVK-Sindhu/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/GVK-Sindhu/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0130-surrounded-regions](https://github.com/GVK-Sindhu/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/GVK-Sindhu/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/GVK-Sindhu/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0867-transpose-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -248,6 +250,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/GVK-Sindhu/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/GVK-Sindhu/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/GVK-Sindhu/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/GVK-Sindhu/leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -312,6 +315,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/GVK-Sindhu/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/GVK-Sindhu/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/GVK-Sindhu/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/GVK-Sindhu/leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -323,6 +327,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/GVK-Sindhu/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/GVK-Sindhu/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GVK-Sindhu/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/GVK-Sindhu/leetcode/tree/main/0547-number-of-provinces/) | Medium |
