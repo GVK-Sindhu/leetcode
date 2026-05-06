@@ -243,12 +243,14 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/GVK-Sindhu/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GVK-Sindhu/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GVK-Sindhu/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/GVK-Sindhu/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/GVK-Sindhu/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/GVK-Sindhu/leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -259,6 +261,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/GVK-Sindhu/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GVK-Sindhu/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GVK-Sindhu/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
