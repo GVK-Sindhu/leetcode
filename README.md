@@ -137,6 +137,7 @@
 | [0045-jump-game-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/GVK-Sindhu/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/GVK-Sindhu/leetcode/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/GVK-Sindhu/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/GVK-Sindhu/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GVK-Sindhu/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/GVK-Sindhu/leetcode/tree/main/0198-house-robber/) | Medium |
@@ -235,6 +236,7 @@
 | [0009-palindrome-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/GVK-Sindhu/leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/GVK-Sindhu/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/GVK-Sindhu/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/GVK-Sindhu/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0202-happy-number/) | Easy |
@@ -364,4 +366,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/GVK-Sindhu/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/GVK-Sindhu/leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
