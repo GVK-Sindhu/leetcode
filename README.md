@@ -63,6 +63,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/GVK-Sindhu/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/GVK-Sindhu/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GVK-Sindhu/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GVK-Sindhu/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GVK-Sindhu/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -191,6 +192,7 @@
 | [0692-top-k-frequent-words](https://github.com/GVK-Sindhu/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/GVK-Sindhu/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GVK-Sindhu/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +314,7 @@
 | [0078-subsets](https://github.com/GVK-Sindhu/leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0136-single-number/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/GVK-Sindhu/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GVK-Sindhu/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
