@@ -64,6 +64,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/GVK-Sindhu/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GVK-Sindhu/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GVK-Sindhu/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GVK-Sindhu/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/GVK-Sindhu/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/GVK-Sindhu/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GVK-Sindhu/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +195,7 @@
 | [0767-reorganize-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/GVK-Sindhu/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GVK-Sindhu/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,6 +375,7 @@
 | [0014-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/GVK-Sindhu/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GVK-Sindhu/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
