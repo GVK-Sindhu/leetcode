@@ -120,6 +120,7 @@
 | [0692-top-k-frequent-words](https://github.com/GVK-Sindhu/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0796-rotate-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/GVK-Sindhu/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -136,6 +137,7 @@
 | [0394-decode-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/GVK-Sindhu/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/GVK-Sindhu/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
