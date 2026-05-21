@@ -78,6 +78,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/GVK-Sindhu/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/GVK-Sindhu/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/GVK-Sindhu/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@
 | [1768-merge-strings-alternately](https://github.com/GVK-Sindhu/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/GVK-Sindhu/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/GVK-Sindhu/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GVK-Sindhu/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Stack
@@ -270,6 +272,7 @@
 | [0396-rotate-function](https://github.com/GVK-Sindhu/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/GVK-Sindhu/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GVK-Sindhu/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
