@@ -48,6 +48,7 @@
 | [0695-max-area-of-island](https://github.com/GVK-Sindhu/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/GVK-Sindhu/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/GVK-Sindhu/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/GVK-Sindhu/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/GVK-Sindhu/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0867-transpose-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/GVK-Sindhu/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -173,6 +174,7 @@
 | [0396-rotate-function](https://github.com/GVK-Sindhu/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/GVK-Sindhu/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GVK-Sindhu/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
