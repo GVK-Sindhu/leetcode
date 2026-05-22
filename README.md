@@ -152,6 +152,7 @@
 | [0206-reverse-linked-list](https://github.com/GVK-Sindhu/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0394-decode-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0394-decode-string/) | Medium |
+| [0509-fibonacci-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -170,6 +171,7 @@
 | [0322-coin-change](https://github.com/GVK-Sindhu/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/GVK-Sindhu/leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0509-fibonacci-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GVK-Sindhu/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Two Pointers
@@ -289,6 +291,7 @@
 | [0202-happy-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0396-rotate-function](https://github.com/GVK-Sindhu/leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0509-fibonacci-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/GVK-Sindhu/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GVK-Sindhu/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -297,6 +300,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/GVK-Sindhu/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0509-fibonacci-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
