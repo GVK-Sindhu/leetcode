@@ -5,7 +5,7 @@ public:
         int prev2=0;
         for(int i=st+1;i<=ed;i++){
             int take=nums[i];
-            if(i>=st) take+=prev2;
+            if(i-2>=st) take+=prev2;
             int nottake=prev1;
             int curi=max(take,nottake);
             prev2=prev1;
