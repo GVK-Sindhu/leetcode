@@ -8,7 +8,7 @@ public:
                 return mid;
             }
            if(nums[mid]<=nums[h]){ //right half sorted
-              if(target>=nums[mid] && target<=nums[h]){
+              if(target>nums[mid] && target<=nums[h]){
                 l=mid+1;
               }
               else{
@@ -16,7 +16,7 @@ public:
               }
            }
            else{
-              if(target<=nums[mid] && target>=nums[l]){
+              if(target<nums[mid] && target>=nums[l]){
                  h=mid-1;
               }
               else{
