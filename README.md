@@ -115,6 +115,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/GVK-Sindhu/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/GVK-Sindhu/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/GVK-Sindhu/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -167,6 +168,7 @@
 | [0213-house-robber-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0322-coin-change](https://github.com/GVK-Sindhu/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0392-is-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/GVK-Sindhu/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0518-coin-change-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GVK-Sindhu/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -185,6 +187,7 @@
 | [0202-happy-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/GVK-Sindhu/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/GVK-Sindhu/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
