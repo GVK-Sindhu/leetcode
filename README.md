@@ -172,6 +172,7 @@
 | [0213-house-robber-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0322-coin-change](https://github.com/GVK-Sindhu/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0338-counting-bits](https://github.com/GVK-Sindhu/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/GVK-Sindhu/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -355,6 +356,7 @@
 | [0029-divide-two-integers](https://github.com/GVK-Sindhu/leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/GVK-Sindhu/leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0136-single-number/) | Easy |
+| [0338-counting-bits](https://github.com/GVK-Sindhu/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/GVK-Sindhu/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GVK-Sindhu/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Design
