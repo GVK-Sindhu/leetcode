@@ -1,41 +1,22 @@
 class Solution {
 public:
+    unordered_map<int,int>dp;
     int ispow(int x){
-        int tmp=x;
-        int st=0;
         if(x==1) return 0;
-        while(tmp>1){
-            if(tmp%2==1){
-                tmp=3*tmp+1;
-            }
-            else{
-                tmp=tmp/2;
-            }
-            st++;
+        if(dp.count(x)){
+            return dp[x];
         }
-        return st;
+        if(x%2==0){
+            return dp[x]=1+ispow(x/2);
+        }
+        return dp[x]=1+ispow(3*x+1);
     }
     int getKth(int lo, int hi, int k) {
-        if((lo-hi)==0 && k==1){
-            return lo;
-        }
         vector<pair<int,int>>tmp;
         for(int i=lo;i<=hi;i++){
-           tmp.push_back({i,ispow(i)});
+           tmp.push_back({ispow(i),i});
         }
-        sort(tmp.begin(),tmp.end(),[](pair<int,int>a,pair<int,int>b){
-            if(a.second==b.second){
-                return a.first<b.first;
-            }
-            return a.second<b.second;
-        });
-        int len=0;
-        for(auto it:tmp){
-            len++;
-            if(len==k){
-                return it.first;
-            }
-        }
-        return -1;
+        sort(tmp.begin(),tmp.end());
+        return tmp[k-1].second;
     }
 };
