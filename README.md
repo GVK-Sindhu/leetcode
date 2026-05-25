@@ -24,6 +24,7 @@
 | [0078-subsets](https://github.com/GVK-Sindhu/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/GVK-Sindhu/leetcode/tree/main/0079-word-search/) | Medium |
 | [0118-pascals-triangle](https://github.com/GVK-Sindhu/leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GVK-Sindhu/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/GVK-Sindhu/leetcode/tree/main/0130-surrounded-regions/) | Medium |
@@ -172,6 +173,7 @@
 | [0062-unique-paths](https://github.com/GVK-Sindhu/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/GVK-Sindhu/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/GVK-Sindhu/leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GVK-Sindhu/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/GVK-Sindhu/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0213-house-robber-ii/) | Medium |
