@@ -68,6 +68,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GVK-Sindhu/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2540-minimum-common-value](https://github.com/GVK-Sindhu/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GVK-Sindhu/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/GVK-Sindhu/leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GVK-Sindhu/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Greedy
@@ -82,6 +83,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/GVK-Sindhu/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/GVK-Sindhu/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/GVK-Sindhu/leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +138,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/GVK-Sindhu/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GVK-Sindhu/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/GVK-Sindhu/leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -180,6 +183,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/GVK-Sindhu/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/GVK-Sindhu/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/GVK-Sindhu/leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/GVK-Sindhu/leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GVK-Sindhu/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
