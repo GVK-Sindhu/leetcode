@@ -128,6 +128,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/GVK-Sindhu/leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/GVK-Sindhu/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/GVK-Sindhu/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -177,6 +178,7 @@
 | [0518-coin-change-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/GVK-Sindhu/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/GVK-Sindhu/leetcode/tree/main/1025-divisor-game/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/GVK-Sindhu/leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GVK-Sindhu/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -468,6 +470,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/GVK-Sindhu/leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
