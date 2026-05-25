@@ -1,21 +1,23 @@
 class Solution {
 public:
-    bool ispal(string s){
-        string revs=s;
-        reverse(s.begin(),s.end());
-        if(s==revs){
-            return true;
+    bool ispal(string tmp){
+        if(tmp.size()==1) return 1;
+        int i=0,j=tmp.size()-1;
+        while(i<=j){
+            if(tmp[i]!=tmp[j]){
+                return false;
+            }
+            i++;
+            j--;
         }
-        else{
-            return false;
-        }
+        return true;
     }
     int countSubstrings(string s) {
-        int n=s.size(),c=0;
-        for(int i=0;i<n;i++){
-            string tmp="";
-            for(int j=i;j<n;j++){
-                tmp+=s[j];
+        int n=s.size();
+        int c=0;
+        for(int i=0;i<s.size();i++){
+            for(int j=i;j<s.size();j++){
+                string tmp=s.substr(i,(j-i+1));
                 if(ispal(tmp)){
                     c++;
                 }
