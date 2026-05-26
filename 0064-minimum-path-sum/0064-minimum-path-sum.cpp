@@ -31,9 +31,9 @@ public:
         // return dp[r-1][c-1];
 
         // space optimization
-        vector<int>prev(c,1e9);
+        vector<int>prev(c,0);
         for(int i=0;i<r;i++){
-            vector<int>cur(c,-1);
+            vector<int>cur(c,0);
             for(int j=0;j<c;j++){
                 if(i==0 && j==0) cur[j]=grid[i][j];
                 else{
