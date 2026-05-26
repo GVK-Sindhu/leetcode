@@ -12,18 +12,34 @@ public:
     }
     int minimumTotal(vector<vector<int>>& triangle) {
         int r=triangle.size();
-        vector<vector<int>>dp(r,vector<int>(r,-1));
+        // vector<vector<int>>dp(r,vector<int>(r,-1));
         // return solve(0,0,dp,triangle);
+        // for(int j=0;j<r;j++){
+        //     dp[r-1][j]=triangle[r-1][j];
+        // }
+        // for(int i=r-2;i>=0;i--){
+        //     for(int j=i;j>=0;j--){
+        //         int bottom=triangle[i][j]+dp[i+1][j];
+        //         int right=triangle[i][j]+dp[i+1][j+1];
+        //         dp[i][j]=min(bottom,right);
+        //     }
+        // }
+        // return dp[0][0];
+
+        // space optimization
+        vector<int>prev(r,-1);
         for(int j=0;j<r;j++){
-            dp[r-1][j]=triangle[r-1][j];
+            prev[j]=triangle[r-1][j];
         }
         for(int i=r-2;i>=0;i--){
+            vector<int>cur(i+1,-1);
             for(int j=i;j>=0;j--){
-                int bottom=triangle[i][j]+dp[i+1][j];
-                int right=triangle[i][j]+dp[i+1][j+1];
-                dp[i][j]=min(bottom,right);
+                int bottom=triangle[i][j]+prev[j];
+                int right=triangle[i][j]+prev[j+1];
+                cur[j]=min(bottom,right);
             }
+            prev=cur;
         }
-        return dp[0][0];
+        return prev[0];
     }
 };
