@@ -40,10 +40,12 @@ public:
             }
         }
         // exploring all paths
+        // state =(i,j1,j2)
         for(int i=r-2;i>=0;i--){
             for(int j1=0;j1<c;j1++){
                 for(int j2=0;j2<c;j2++){
                     int maxi=-1e8;
+                    //transition j1,j2={-1,0,1}
                     for(int dj1=-1;dj1<=1;dj1++){
                         for(int dj2=-1;dj2<=1;dj2++){
                             int val=0;
