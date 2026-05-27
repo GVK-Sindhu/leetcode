@@ -47,6 +47,7 @@
 | [0303-range-sum-query-immutable](https://github.com/GVK-Sindhu/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/GVK-Sindhu/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/GVK-Sindhu/leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/GVK-Sindhu/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/GVK-Sindhu/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -195,6 +196,7 @@
 | [0338-counting-bits](https://github.com/GVK-Sindhu/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/GVK-Sindhu/leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/GVK-Sindhu/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
