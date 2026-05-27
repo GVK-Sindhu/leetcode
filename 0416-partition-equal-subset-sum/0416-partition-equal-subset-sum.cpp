@@ -17,7 +17,21 @@ public:
             tar+=it;
         }
         if(tar%2!=0) return false;
-        vector<vector<int>>dp(n,vector<int>(tar,-1));
-        return solve(n-1,nums,tar/2,dp);
+        tar=tar/2;
+        vector<vector<bool>>dp(n,vector<bool>(tar+1,false));
+        // return solve(n-1,nums,tar/2,dp);
+        for(int i=0;i<n;i++){
+            dp[i][0]=true;
+        }
+        if(nums[0]<=tar) dp[0][nums[0]]=true;
+        for(int i=1;i<n;i++){
+           for(int t=1;t<=tar;t++){
+               int pick=0;
+                if(t>=nums[i]) pick=dp[i-1][t-nums[i]];
+                int notpick=dp[i-1][t];
+                dp[i][t]=pick||notpick;
+           }
+        }
+        return dp[n-1][tar];
     }
 };
