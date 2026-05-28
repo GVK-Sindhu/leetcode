@@ -46,5 +46,26 @@ public:
         return dp[n-1][amount]>=1e9?-1:dp[n-1][amount];
 
         // space optimization
+        vector<int>prev(amount+1,-1),cur(amount+1,-1);
+        for(int i=1;i<=amount;i++){
+            if(i%coins[0]==0){
+                prev[i]=i/coins[0];
+            }
+            else{
+                prev[i]=1e9;
+            }
+        }
+        prev[0]=0;
+        cur[0]=0;
+        for(int i=1;i<n;i++){
+            for(int j=1;j<=amount;j++){
+                int nottake=prev[j];
+                int take=1e9;
+                if(coins[i]<=j) take=1+cur[j-coins[i]];
+                cur[j]=min(take,nottake);
+            }
+            prev=cur;
+        }
+        return prev[amount]>=1e9?-1:prev[amount];
     }
 };
