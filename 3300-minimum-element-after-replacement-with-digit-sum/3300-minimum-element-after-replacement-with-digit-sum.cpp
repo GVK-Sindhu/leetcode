@@ -1,26 +1,19 @@
 class Solution {
 public:
-    int convert(int it){
-        int t=it;
+    int issum(int tmp){
         int s=0;
-        while(t>0){
-            int ld=t%10;
+        while(tmp>0){
+            int ld=tmp%10;
             s+=ld;
-            t=t/10;
+            tmp/=10;
         }
         return s;
     }
     int minElement(vector<int>& nums) {
         vector<int>res;
         for(int it:nums){
-         res.push_back(convert(it));
+            res.push_back(issum(it));
         }
-        int min=INT_MAX;
-        for(int it:res){
-            if(it<min){
-                min=it;
-            }
-        }
-        return min;
+        return *min_element(res.begin(),res.end());
     }
 };
