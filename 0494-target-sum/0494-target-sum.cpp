@@ -27,7 +27,23 @@ public:
         }
         if((ts-target)<0 || (ts-target)%2!=0) return 0;
         int tar=(ts-target)/2;
-        vector<vector<int>>dp(n,vector<int>(tar+1,-1));
-        return solve(n-1,nums,tar,dp);
+        vector<vector<int>>dp(n,vector<int>(tar+1,0));
+        // return solve(n-1,nums,tar,dp);
+        if(nums[0]==0) dp[0][0]=2;
+        else   dp[0][0]=1;
+        if(tar>=nums[0] && nums[0]!=0){
+                dp[0][nums[0]]=1;
+         }
+         for(int i=1;i<n;i++){
+            for(int j=0;j<=tar;j++){
+                int notpick=dp[i-1][j];
+                int pick=0;
+                if(j>=nums[i]){
+                    pick=dp[i-1][j-nums[i]];
+                }
+                dp[i][j]=pick+notpick;
+            }
+         }
+         return dp[n-1][tar];
     }
 };
