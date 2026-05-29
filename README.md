@@ -77,6 +77,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GVK-Sindhu/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/GVK-Sindhu/leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GVK-Sindhu/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -333,6 +334,7 @@
 | [1025-divisor-game](https://github.com/GVK-Sindhu/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GVK-Sindhu/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
