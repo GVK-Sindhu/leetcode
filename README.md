@@ -143,6 +143,7 @@
 | [0767-reorganize-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0796-rotate-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/GVK-Sindhu/leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
@@ -207,6 +208,7 @@
 | [0647-palindromic-substrings](https://github.com/GVK-Sindhu/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/GVK-Sindhu/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/GVK-Sindhu/leetcode/tree/main/1025-divisor-game/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1387-sort-integers-by-the-power-value](https://github.com/GVK-Sindhu/leetcode/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/GVK-Sindhu/leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
