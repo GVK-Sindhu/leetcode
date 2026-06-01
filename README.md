@@ -73,6 +73,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/GVK-Sindhu/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GVK-Sindhu/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/GVK-Sindhu/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GVK-Sindhu/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GVK-Sindhu/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2540-minimum-common-value](https://github.com/GVK-Sindhu/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GVK-Sindhu/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -92,6 +93,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/GVK-Sindhu/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/GVK-Sindhu/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GVK-Sindhu/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/GVK-Sindhu/leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -290,6 +292,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1387-sort-integers-by-the-power-value](https://github.com/GVK-Sindhu/leetcode/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/GVK-Sindhu/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GVK-Sindhu/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
