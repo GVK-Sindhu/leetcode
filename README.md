@@ -46,6 +46,7 @@
 | [0283-move-zeroes](https://github.com/GVK-Sindhu/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/GVK-Sindhu/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/GVK-Sindhu/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/GVK-Sindhu/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0396-rotate-function](https://github.com/GVK-Sindhu/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0494-target-sum/) | Medium |
@@ -418,6 +419,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/GVK-Sindhu/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/GVK-Sindhu/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/GVK-Sindhu/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/GVK-Sindhu/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GVK-Sindhu/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
