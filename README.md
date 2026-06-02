@@ -23,6 +23,7 @@
 | [0063-unique-paths-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/GVK-Sindhu/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/GVK-Sindhu/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/GVK-Sindhu/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/GVK-Sindhu/leetcode/tree/main/0079-word-search/) | Medium |
 | [0118-pascals-triangle](https://github.com/GVK-Sindhu/leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -225,6 +226,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/GVK-Sindhu/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/GVK-Sindhu/leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/GVK-Sindhu/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/GVK-Sindhu/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/GVK-Sindhu/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -286,6 +288,7 @@
 | [0015-3sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/GVK-Sindhu/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/GVK-Sindhu/leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/GVK-Sindhu/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/GVK-Sindhu/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/GVK-Sindhu/leetcode/tree/main/0217-contains-duplicate/) | Easy |
