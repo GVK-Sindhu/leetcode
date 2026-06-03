@@ -56,6 +56,7 @@
 | [0692-top-k-frequent-words](https://github.com/GVK-Sindhu/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/GVK-Sindhu/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/GVK-Sindhu/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GVK-Sindhu/leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/GVK-Sindhu/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/GVK-Sindhu/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/GVK-Sindhu/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -212,6 +213,7 @@
 | [0509-fibonacci-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/GVK-Sindhu/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GVK-Sindhu/leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/GVK-Sindhu/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/GVK-Sindhu/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -283,6 +285,7 @@
 | [0239-sliding-window-maximum](https://github.com/GVK-Sindhu/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/GVK-Sindhu/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GVK-Sindhu/leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/GVK-Sindhu/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/GVK-Sindhu/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Sorting
@@ -323,6 +326,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/GVK-Sindhu/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GVK-Sindhu/leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/GVK-Sindhu/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/GVK-Sindhu/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GVK-Sindhu/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -537,4 +541,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/GVK-Sindhu/leetcode/tree/main/1025-divisor-game/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GVK-Sindhu/leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GVK-Sindhu/leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 <!---LeetCode Topics End-->
