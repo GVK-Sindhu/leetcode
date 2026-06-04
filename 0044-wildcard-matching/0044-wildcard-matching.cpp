@@ -29,28 +29,49 @@ public:
     bool isMatch(string s, string p) {
         int l1=s.size();
         int l2=p.size();
-        vector<vector<bool>>dp(l1+1,vector<bool>(l2+1,false));
-        // return solve(l1,l2,s,p,dp)==1?true:false;
-        dp[0][0]=true;
+        // vector<vector<bool>>dp(l1+1,vector<bool>(l2+1,false));
+        // // return solve(l1,l2,s,p,dp)==1?true:false;
+        // dp[0][0]=true;
+        // for(int j=1;j<=l2;j++){
+        //     if(p[j-1]=='*'){
+        //         dp[0][j]= dp[0][j-1];
+        //     }
+        // }
+        // for(int i=1;i<=l1;i++){
+        //     dp[i][0]=false;
+        // }
+        // for(int i=1;i<=l1;i++){
+        //     for(int j=1;j<=l2;j++){
+        //         if(s[i-1]==p[j-1] || p[j-1]=='?'){
+        //              dp[i][j]=dp[i-1][j-1];
+        //         }
+        //         else if(p[j-1]=='*'){
+        //              dp[i][j]=dp[i-1][j] || dp[i][j-1];
+        //         }
+        //         else dp[i][j]=false;
+        //     }
+        // }
+        // return dp[l1][l2];
+
+         vector<bool>prv(l2+1,false),cur(l2+1,false);
+        prv[0]=true;
         for(int j=1;j<=l2;j++){
             if(p[j-1]=='*'){
-                dp[0][j]= dp[0][j-1];
+                prv[j]=prv[j-1];
             }
-        }
-        for(int i=1;i<=l1;i++){
-            dp[i][0]=false;
         }
         for(int i=1;i<=l1;i++){
             for(int j=1;j<=l2;j++){
                 if(s[i-1]==p[j-1] || p[j-1]=='?'){
-                     dp[i][j]=dp[i-1][j-1];
+                     cur[j]=prv[j-1];
                 }
                 else if(p[j-1]=='*'){
-                     dp[i][j]=dp[i-1][j] || dp[i][j-1];
+                    cur[j]=prv[j] || cur[j-1];
                 }
-                else dp[i][j]=false;
+                else cur[j]=false;
             }
+            prv=cur;
         }
-        return dp[l1][l2];
+        return prv[l2];
     }
 };
