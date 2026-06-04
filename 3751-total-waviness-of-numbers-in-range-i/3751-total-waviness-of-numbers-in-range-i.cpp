@@ -1,21 +1,30 @@
 class Solution {
 public:
-    int totalWaviness(int num1, int num2) { 
-        int res=0;
-        for(int i=num1;i<=num2;i++)
-        {
-            string s=to_string(i);
-            if(s.size()<3) continue; 
-            for(int j=1;j+1<s.size();j++){
-                if(s[j]>s[j-1] && s[j]>s[j+1]){
-                    res++;
-                } 
-                else if(s[j]<s[j-1] && s[j]<s[j+1])
-                {
-                    res++;
-                }
-                }
+    int iswave(string tmp){
+        int c=0;
+        for(int i=1;i<tmp.size()-1;i++){
+            if(tmp[i]>tmp[i-1] && tmp[i]>tmp[i+1]){
+                c++;
             }
-            return res;
+            if(tmp[i]<tmp[i-1] && tmp[i]<tmp[i+1]){
+                c++;
+            }
+        }
+        return c;
+    }
+    int totalWaviness(int num1, int num2) {
+        string s1=to_string(num1);
+        string s2=to_string(num2);
+        int s=0;
+        if(s1.length()<=2 && s2.length()<=2){
+            return 0;
+        }
+        else{
+            for(int i=num1;i<=num2;i++){
+                string tmp=to_string(i);
+                s+=iswave(tmp);
+            }
+        }
+        return s;
     }
 };
