@@ -50,6 +50,7 @@
 | [0239-sliding-window-maximum](https://github.com/GVK-Sindhu/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/GVK-Sindhu/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/GVK-Sindhu/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GVK-Sindhu/leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/GVK-Sindhu/leetcode/tree/main/0322-coin-change/) | Medium |
@@ -221,6 +222,7 @@
 | [0198-house-robber](https://github.com/GVK-Sindhu/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GVK-Sindhu/leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/GVK-Sindhu/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/GVK-Sindhu/leetcode/tree/main/0338-counting-bits/) | Easy |
@@ -350,6 +352,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GVK-Sindhu/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/GVK-Sindhu/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GVK-Sindhu/leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/GVK-Sindhu/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
