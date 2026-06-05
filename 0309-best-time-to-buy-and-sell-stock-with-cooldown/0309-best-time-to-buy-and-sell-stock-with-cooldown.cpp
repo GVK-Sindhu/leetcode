@@ -14,35 +14,29 @@ public:
     }
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
-        vector<vector<int>>dp(n+2,vector<int>(2,0));
-        // return solve(0,1,prices,dp);
-        for(int i=n-1;i>=0;i--){
-            for(int buy=0;buy<2;buy++){
-                 int profit=0;
-                if(buy){
-                    profit=max(-prices[i]+dp[i+1][0], dp[i+1][1]);
-                }
-                else{
-                    profit=max( prices[i]+dp[i+2][1], dp[i+1][0]);
-                }
-                dp[i][buy]=profit;
-            }
-        }
-        return dp[0][1];
+        // vector<vector<int>>dp(n+2,vector<int>(2,0));
+        // // return solve(0,1,prices,dp);
+        // for(int i=n-1;i>=0;i--){
+        //     for(int buy=0;buy<2;buy++){
+        //          int profit=0;
+        //         if(buy){
+        //             profit=max(-prices[i]+dp[i+1][0], dp[i+1][1]);
+        //         }
+        //         else{
+        //             profit=max( prices[i]+dp[i+2][1], dp[i+1][0]);
+        //         }
+        //         dp[i][buy]=profit;
+        //     }
+        // }
+        // return dp[0][1];
         // space optmization
         vector<int>prev2(2,0);
         vector<int>prev1(2,0),cur(2,0);
         for(int i=n-1;i>=0;i--){
-            for(int buy=0;buy<2;buy++){
                  int profit=0;
-                if(buy){
-                    profit=max(-prices[i]+prev1[0], prev1[1]);
-                }
-                else{
-                    profit=max( prices[i]+prev2[1], prev1[0]);
-                }
-                cur[buy]=profit;
-            }
+                 cur[1]=max(-prices[i]+prev1[0], prev1[1]);
+                 cur[0]=max( prices[i]+prev2[1], prev1[0]);
+            
             prev2=prev1;
             prev1=cur;
         }
