@@ -20,36 +20,28 @@ public:
     }
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
-        vector<vector<int>>dp(n,vector<int>(4,-1));
-        return solve(0,0,prices,n,dp);
-        // // base case i==0 ,trade==0
-        // for(int buy=0;buy<2;buy++){
-        //     for(int trade=0;trade<3;trade++){
-        //         dp[n][buy][trade]=0;
-        //     }
-        // }
-        // for(int i=0;i<n;i++){
-        //     for(int buy=0;buy<2;buy++){
-        //         dp[i][buy][0]=0;
-        //     }
-        // }
-        // for(int i=n-1;i>=0;i--){
-        //     for(int buy=0;buy<2;buy++){
-        //         for(int trade=1;trade<3;trade++){
-        //             int profit=0;
-        //             if(buy){
-        //                 profit=max(-prices[i]+dp[i+1][0][trade],
-        //                 dp[i+1][1][trade]);
-        //             }
-        //             else{
-        //                 profit=max(prices[i]+dp[i+1][1][trade-1],
-        //                 dp[i+1][0][trade]);
-        //             }
-        //             dp[i][buy][trade]=profit;
-        //         }
-        //     }
-        // }
-        // return dp[0][1][2];
+        vector<vector<int>>dp(n+1,vector<int>(5,0));
+        // return solve(0,0,prices,n,dp);
+        // base case i==n ,trans==4
+        dp[n][0]=dp[n][1]=dp[n][2]=dp[n][3]=0;
+        for(int i=0;i<n;i++){
+            dp[i][4]=0;
+        }
+        for(int i=n-1;i>=0;i--){
+            for(int trans=0;trans<4;trans++){
+                    int profit=0;
+                    if(trans%2==0){
+                        profit=max(-prices[i]+dp[i+1][trans+1],
+                        dp[i+1][trans]);
+                    }
+                    else{
+                        profit=max(prices[i]+dp[i+1][trans+1],
+                        dp[i+1][trans]);
+                    }
+                    dp[i][trans]=profit;
+                }
+        }
+        return dp[0][0];
         
         // space optimize
 
