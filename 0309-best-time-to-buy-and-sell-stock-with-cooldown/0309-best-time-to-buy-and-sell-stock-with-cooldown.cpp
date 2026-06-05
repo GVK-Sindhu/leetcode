@@ -30,6 +30,22 @@ public:
         }
         return dp[0][1];
         // space optmization
-
+        vector<int>prev2(2,0);
+        vector<int>prev1(2,0),cur(2,0);
+        for(int i=n-1;i>=0;i--){
+            for(int buy=0;buy<2;buy++){
+                 int profit=0;
+                if(buy){
+                    profit=max(-prices[i]+prev1[0], prev1[1]);
+                }
+                else{
+                    profit=max( prices[i]+prev2[1], prev1[0]);
+                }
+                cur[buy]=profit;
+            }
+            prev2=prev1;
+            prev1=cur;
+        }
+        return prev1[1];
     }
 };
