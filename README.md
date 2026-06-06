@@ -87,6 +87,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GVK-Sindhu/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GVK-Sindhu/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2540-minimum-common-value](https://github.com/GVK-Sindhu/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/GVK-Sindhu/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GVK-Sindhu/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/GVK-Sindhu/leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -369,6 +370,7 @@
 | [0303-range-sum-query-immutable](https://github.com/GVK-Sindhu/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/GVK-Sindhu/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/GVK-Sindhu/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/GVK-Sindhu/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
