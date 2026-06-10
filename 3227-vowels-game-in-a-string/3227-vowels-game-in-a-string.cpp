@@ -1,25 +1,21 @@
 class Solution {
 public:
+    bool isvowel(char c){
+        return c=='a'||c=='e'||c=='i'||c=='o'||c=='u';
+    }
     bool doesAliceWin(string s) {
-        int co=0;
-        for(char c:s){
-            if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u'){
-                co++;
+        int vc=0;
+        for(int i=0;i<s.size();i++){
+            if(isvowel(s[i])){
+                vc++;
             }
         }
-        cout<<co<<"\n";
-        if(co==0){
+        // if(vc%2==1 && vc==1){
+        //     return true;
+        // }
+        if(vc==0){
             return false;
         }
-        // else if(co==1){
-        //     return true;
-        // }
-        // else if(co%2==0){
-        //     return true;
-        // }
-        // else{
-        //     return false;
-        // }
         return true;
     }
 };
