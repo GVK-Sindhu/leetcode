@@ -354,6 +354,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0441-arranging-coins](https://github.com/GVK-Sindhu/leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/GVK-Sindhu/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GVK-Sindhu/leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/GVK-Sindhu/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -384,6 +385,7 @@
 | [0202-happy-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0396-rotate-function](https://github.com/GVK-Sindhu/leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0441-arranging-coins](https://github.com/GVK-Sindhu/leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/GVK-Sindhu/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/GVK-Sindhu/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1025-divisor-game](https://github.com/GVK-Sindhu/leetcode/tree/main/1025-divisor-game/) | Easy |
