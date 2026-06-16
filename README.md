@@ -184,6 +184,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/GVK-Sindhu/leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -416,6 +417,7 @@
 | [0735-asteroid-collision](https://github.com/GVK-Sindhu/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
