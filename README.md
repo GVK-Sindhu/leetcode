@@ -94,6 +94,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/GVK-Sindhu/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GVK-Sindhu/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/GVK-Sindhu/leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
+| [2974-minimum-number-game](https://github.com/GVK-Sindhu/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GVK-Sindhu/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -349,6 +350,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/GVK-Sindhu/leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/GVK-Sindhu/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GVK-Sindhu/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2974-minimum-number-game](https://github.com/GVK-Sindhu/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Counting
@@ -422,6 +424,7 @@
 | [0735-asteroid-collision](https://github.com/GVK-Sindhu/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2974-minimum-number-game](https://github.com/GVK-Sindhu/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -489,6 +492,7 @@
 | [0767-reorganize-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/GVK-Sindhu/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/GVK-Sindhu/leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [2974-minimum-number-game](https://github.com/GVK-Sindhu/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
