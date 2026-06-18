@@ -79,6 +79,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GVK-Sindhu/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1046-last-stone-weight](https://github.com/GVK-Sindhu/leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/GVK-Sindhu/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GVK-Sindhu/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -134,6 +135,7 @@
 | [0695-max-area-of-island](https://github.com/GVK-Sindhu/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0867-transpose-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/GVK-Sindhu/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/GVK-Sindhu/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/GVK-Sindhu/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -255,6 +257,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/GVK-Sindhu/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/GVK-Sindhu/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1387-sort-integers-by-the-power-value](https://github.com/GVK-Sindhu/leetcode/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/GVK-Sindhu/leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
