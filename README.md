@@ -88,6 +88,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/GVK-Sindhu/leetcode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/GVK-Sindhu/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/GVK-Sindhu/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GVK-Sindhu/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/GVK-Sindhu/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GVK-Sindhu/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -394,6 +395,7 @@
 | [0303-range-sum-query-immutable](https://github.com/GVK-Sindhu/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/GVK-Sindhu/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/GVK-Sindhu/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/GVK-Sindhu/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/GVK-Sindhu/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
