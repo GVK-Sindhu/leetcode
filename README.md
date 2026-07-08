@@ -193,6 +193,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/GVK-Sindhu/leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +398,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/GVK-Sindhu/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/GVK-Sindhu/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/GVK-Sindhu/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +421,7 @@
 | [3227-vowels-game-in-a-string](https://github.com/GVK-Sindhu/leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
