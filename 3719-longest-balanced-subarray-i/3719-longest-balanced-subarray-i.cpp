@@ -1,23 +1,23 @@
 class Solution {
 public:
     int longestBalanced(vector<int>& nums) {
-        int maxlen=0;
-        int ec=0,oc=0;
         int n=nums.size();
+        int maxlen=0;
         for(int i=0;i<n;i++){
-            unordered_set<int>evenset,oddset;
+            int ec=0;
+            int oc=0;
+            unordered_map<int,int>freq;
             for(int j=i;j<n;j++){
-                 if(nums[j]%2==0){
-                    evenset.insert(nums[j]);
+                if(freq.find(nums[j])==freq.end()){
+                    if(nums[j]%2==0) ec++;
+                    else oc++;
                 }
-                else{
-                    oddset.insert(nums[j]);
-                }
-                if(evenset.size()==oddset.size()){
+                freq[nums[j]]=1;
+                if(ec==oc){
                     maxlen=max(maxlen,j-i+1);
+                    // cout<<i<<" "<<j<<"\n";
                 }
             }
-            
         }
         return maxlen;
     }
