@@ -1,20 +1,17 @@
 class Solution {
 public:
     vector<int> sequentialDigits(int low, int high) {
-        queue<int>q;
-        for(int i=1;i<=8;i++){
-            q.push(i);
-        }
+        string s="123456789";
+        int lowlen=to_string(low).size();
+        int highlen=to_string(high).size();
         vector<int>res;
-        while(!q.empty()){
-            int tmp=q.front();
-            q.pop();
-             if(tmp>=low && tmp<=high){
-                res.push_back(tmp);
+        for(int len=lowlen;len<=highlen;len++){
+            for(int i=0;i+len<=9;i++){
+                int num=stoi(s.substr(i,len));
+                if(num>=low && num<=high){
+                    res.push_back(num);
+                }
             }
-            if(tmp>high) continue;
-                int ld=tmp%10;
-                if((ld+1)<=9) q.push(tmp*10+(ld+1));
         }
         return res;
     }
