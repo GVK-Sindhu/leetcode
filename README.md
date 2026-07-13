@@ -643,6 +643,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/GVK-Sindhu/leetcode/tree/main/1291-sequential-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
