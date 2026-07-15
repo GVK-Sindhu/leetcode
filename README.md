@@ -433,6 +433,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/GVK-Sindhu/leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/GVK-Sindhu/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Memoization
@@ -649,4 +650,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/GVK-Sindhu/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
