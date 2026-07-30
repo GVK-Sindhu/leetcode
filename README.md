@@ -124,6 +124,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GVK-Sindhu/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/GVK-Sindhu/leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Matrix
@@ -193,6 +194,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GVK-Sindhu/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/GVK-Sindhu/leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -431,6 +433,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GVK-Sindhu/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/GVK-Sindhu/leetcode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/GVK-Sindhu/leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GVK-Sindhu/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
