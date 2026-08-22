@@ -1,15 +1,14 @@
 class Solution {
 public:
     bool checkDivisibility(int n) {
-        int temp=n;
+        int tmp=n;
         int s=0,p=1;
-        while(temp>0){
-            int ld=temp%10;
-            s+=ld;
-            p*=ld;
-            temp=temp/10;
+        while(tmp>0)
+        {
+            s+=tmp%10;
+            p*=tmp%10;
+            tmp/=10;
         }
-        cout<<s<<" "<<p;
         if(n%(s+p)==0){
             return true;
         }
