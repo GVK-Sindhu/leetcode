@@ -1,16 +1,24 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        unordered_map<char,int>res;
-        for(int i=0;i<t.length();i++){
-            res[t[i]]++;
+        unordered_map<char,int>freq;
+        for(char c:s){
+            freq[c]++;
         }
-        for(int j=0;j<s.length();j++){
-            res[s[j]]--;
+        char res='$';
+        unordered_map<char,int>freq2;
+        for(char c:t){
+            freq2[c]++;
         }
-        for(auto it:res){
-            if(it.second>0) return it.first;
+        for(int i=0;i<t.size();i++){
+            char c=t[i];
+            if(freq2[c]==freq[c] && freq[s[i]]>=1){
+                continue;
+            }
+            else{
+                return t[i];
+            }
         }
-            return '0';
+        return res;
     }
 };
