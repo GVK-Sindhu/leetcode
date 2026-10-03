@@ -159,6 +159,7 @@
 | [0008-string-to-integer-atoi](https://github.com/GVK-Sindhu/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/GVK-Sindhu/leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/GVK-Sindhu/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/GVK-Sindhu/leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -230,6 +231,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GVK-Sindhu/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/GVK-Sindhu/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/GVK-Sindhu/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/0045-jump-game-ii/) | Medium |
@@ -558,6 +560,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/GVK-Sindhu/leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/GVK-Sindhu/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/GVK-Sindhu/leetcode/tree/main/0079-word-search/) | Medium |
@@ -671,5 +674,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
