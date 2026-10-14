@@ -1,7 +1,7 @@
 class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
-        if(sum>9*num){
+        if(sum>(9*num)){
             return "";
         }
         string res="";
@@ -10,7 +10,12 @@ public:
             res+=(digi+'0');
             sum-=digi;
         }
-        if(sum>0) return "";
+        if(sum>0){
+            return "";
+        }
         return res;
     }
 };
+
+// 990000000
+// 663300000
