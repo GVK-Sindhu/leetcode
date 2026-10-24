@@ -86,6 +86,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/GVK-Sindhu/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1487-making-file-names-unique](https://github.com/GVK-Sindhu/leetcode/tree/main/1487-making-file-names-unique/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/GVK-Sindhu/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/GVK-Sindhu/leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/GVK-Sindhu/leetcode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
@@ -196,6 +197,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/GVK-Sindhu/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1487-making-file-names-unique](https://github.com/GVK-Sindhu/leetcode/tree/main/1487-making-file-names-unique/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/GVK-Sindhu/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/GVK-Sindhu/leetcode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GVK-Sindhu/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -348,6 +350,7 @@
 | [0692-top-k-frequent-words](https://github.com/GVK-Sindhu/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/GVK-Sindhu/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1487-making-file-names-unique](https://github.com/GVK-Sindhu/leetcode/tree/main/1487-making-file-names-unique/) | Medium |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/GVK-Sindhu/leetcode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/GVK-Sindhu/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/GVK-Sindhu/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
