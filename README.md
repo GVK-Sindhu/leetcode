@@ -83,6 +83,7 @@
 | [1267-count-servers-that-communicate](https://github.com/GVK-Sindhu/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/GVK-Sindhu/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GVK-Sindhu/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GVK-Sindhu/leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/GVK-Sindhu/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -124,6 +125,7 @@
 | [0767-reorganize-string](https://github.com/GVK-Sindhu/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/GVK-Sindhu/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GVK-Sindhu/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GVK-Sindhu/leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/GVK-Sindhu/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/GVK-Sindhu/leetcode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/GVK-Sindhu/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -289,6 +291,7 @@
 | [1092-shortest-common-supersequence](https://github.com/GVK-Sindhu/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/GVK-Sindhu/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/GVK-Sindhu/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GVK-Sindhu/leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1387-sort-integers-by-the-power-value](https://github.com/GVK-Sindhu/leetcode/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/GVK-Sindhu/leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
