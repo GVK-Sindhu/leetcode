@@ -108,6 +108,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GVK-Sindhu/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GVK-Sindhu/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GVK-Sindhu/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GVK-Sindhu/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
@@ -159,6 +160,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GVK-Sindhu/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/GVK-Sindhu/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GVK-Sindhu/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GVK-Sindhu/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -515,6 +517,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/GVK-Sindhu/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0994-rotting-oranges](https://github.com/GVK-Sindhu/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/GVK-Sindhu/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GVK-Sindhu/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -602,6 +605,7 @@
 | [0547-number-of-provinces](https://github.com/GVK-Sindhu/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/GVK-Sindhu/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/GVK-Sindhu/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GVK-Sindhu/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -624,6 +628,7 @@
 | [0695-max-area-of-island](https://github.com/GVK-Sindhu/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/GVK-Sindhu/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/GVK-Sindhu/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GVK-Sindhu/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
