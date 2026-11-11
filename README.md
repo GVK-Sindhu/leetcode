@@ -139,6 +139,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/GVK-Sindhu/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/GVK-Sindhu/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/GVK-Sindhu/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,6 +477,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/GVK-Sindhu/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GVK-Sindhu/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GVK-Sindhu/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/GVK-Sindhu/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
